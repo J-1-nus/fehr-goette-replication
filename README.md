@@ -1,4 +1,5 @@
 NOTES ON THE DATA SET FROM FEHR AND GOETTE (2006), "DO WORKERS WORK MORE WHEN WAGES ARE HIGH? EVIDENCE FROM A RANDOMIZED FIELD EXPERIMENT"
+
 Ernst Fehr and Lorenz Goette
 
 These notes describe how the results from Fehr and Goette (2006) can be replicated. They also describe the information we omitted to protect confidential business information and confidential personal information.
